@@ -24,7 +24,7 @@ export default function HomePage() {
     <>
       <JsonLd pageKey="home" />
       <Hero />
-      <PressLogos />
+      {/* <PressLogos /> */}
       <BestSellers />
       <WhyLoveUs />
       <Combos />
