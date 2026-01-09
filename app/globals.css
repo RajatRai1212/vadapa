@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #FFF4E6;
+  color: #241A10;
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3 {
+  font-family: var(--font-display);
+}
+
+::selection {
+  background: rgba(245, 158, 11, 0.25);
+}
+
+@keyframes floatSlow {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+}
+
+.float-slow {
+  animation: floatSlow 8s ease-in-out infinite;
+}
+
+.hero-bg {
+  background-image: url("/images/hero.png");
+  background-size: cover;
+  background-position: center;
+  filter: blur(12px) saturate(1.05);
+  opacity: 0.5;
+  transform: scale(1.02);
+}

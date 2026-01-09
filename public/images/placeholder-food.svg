@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <rect width="240" height="240" rx="28" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.10)"></rect>
+  <circle cx="120" cy="110" r="54" fill="rgba(255,176,32,0.18)"></circle>
+  <text x="120" y="185" font-size="14" font-family="Arial" fill="rgba(255,255,255,0.70)" text-anchor="middle">
+    TODO image
+  </text>
+</svg>

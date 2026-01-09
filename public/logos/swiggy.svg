@@ -1,0 +1,6 @@
+<!-- swiggy.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="36" viewBox="0 0 120 36">
+  <rect width="120" height="36" rx="10" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.10)"/>
+  <text x="60" y="23" font-family="Arial" font-size="14" fill="rgba(255,255,255,0.80)" text-anchor="middle">Swiggy</text>
+</svg>
+
